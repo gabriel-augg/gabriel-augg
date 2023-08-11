@@ -6,7 +6,7 @@ O mundo está passando por transformações graças à tecnologia, e o meu sonho
 
 Tive meu primeiro contato com a programação no ano passado e, desde então, fiquei completamente apaixonado. Rapidamente percebi que queria me tornar um programador e, por essa razão, dedico-me diariamente a estudar para alcançar esse objetivo! 🎯
 
-Apesar de não ser uma jornada fácil, a programação me desafia constantemente (é exatamente por isso que tenho tanto amor por essa área rsrs). A cada dia, consigo superar novos obstáculos e perceber o quanto tenho evoluído. Estudar programação não apenas está me transformando em um desenvolvedor habilidoso, mas também está me capacitando como um solucionador de problemas. Essa nova visão de mundo que estou adquirindo é algo que estou verdadeiramente amando! 
+Apesar de não ser uma jornada fácil, a programação me desafia constantemente (é exatamente por isso que tenho tanto amor por essa área rsrs). A cada dia, consigo superar novos obstáculos e perceber o quanto tenho evoluído. Estudar programação não apenas está me transformando em um desenvolvedor habilidoso, mas também está me capacitando como um solucionador de problemas. Essa nova visão de mundo que estou adquirindo é algo que estou adorando! 
 
 ## Contato
 
